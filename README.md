@@ -14,10 +14,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="40%" valign="top">
-
 **Saksham, here** — a first-year B.Tech student.
 
 I enjoy exploring **maths** and **physics**, and applying them through **AI**, **machine learning**, **DSA** and **web development** — learning how things work from first principles, and then building with them.
@@ -28,8 +24,8 @@ I'm curious by nature. I like breaking a hard problem into smaller parts, unders
 
 My goal is simple: learn deeply, write clean code, and grow into a software engineer who creates things that last.
 
-</td>
-<td width="60%" valign="top">
+<details>
+<summary>My portrait in ASCII</summary>
 
 <pre>
 ====================================================================================================
@@ -87,9 +83,7 @@ My goal is simple: learn deeply, write clean code, and grow into a software engi
                                                -:   -.     .-
 </pre>
 
-</td>
-</tr>
-</table>
+</details>
 
 <div align="center">
 

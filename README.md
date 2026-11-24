@@ -1,4 +1,4 @@
-<p align="center"><img src="top-banner.jpg" width="100%" alt="Cat in front of a whiteboard full of physics and maths"></p>
+<p align="center"><img src="top-banner.gif" width="100%" alt="Pixelated Creation of Adam hands animation"></p>
 
 <div align="center">
 

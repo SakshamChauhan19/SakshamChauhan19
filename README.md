@@ -24,9 +24,6 @@ I'm curious by nature. I like breaking a hard problem into smaller parts, unders
 
 My goal is simple: learn deeply, write clean code, and grow into a software engineer who creates things that last.
 
-<details>
-<summary>My portrait in ASCII</summary>
-
 <pre>
 ====================================================================================================
 =+==++======+======+=====================++====+***++==++++==============================+===+======
@@ -83,7 +80,6 @@ My goal is simple: learn deeply, write clean code, and grow into a software engi
                                                -:   -.     .-
 </pre>
 
-</details>
 
 <div align="center">
 
